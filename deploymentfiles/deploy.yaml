@@ -23,6 +23,6 @@ spec:
     spec:
       containers: 
       - name: facebook-container
-        image: lohith0720/lohtihcontainers:2
+        image: lohith0720/lohtihcontainers:3
         ports:
         - containerPort: 8080
